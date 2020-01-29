@@ -1,0 +1,6 @@
+#Mono Project Files
+bin/
+obj/
+packages/*
+
+.vs/
